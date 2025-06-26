@@ -13,6 +13,7 @@
 ![Responsive Layout](https://img.shields.io/badge/Responsive%20Layout-Full%20Support-blue?style=for-the-badge)
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Design-orange?style=for-the-badge)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/645646cd-e19b-4e69-9bbe-3d09f0e969be/deploy-status)](https://conquering-responsive-layout-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
 
@@ -80,7 +81,7 @@ The project emphasizes design fidelity, accessibility, and responsive techniques
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://conquering-responsive-layout-jiro.netlify.app/)
 
 ---
 
@@ -91,10 +92,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **June 2025**
 
 📚 Journey: **3<sup>rd</sup>** month of learning _frontend web development_.
-
-<!--
-
-GITHUB TAGS:
-html css javascript vscode git github netlify 3rd-month project
-
--->
