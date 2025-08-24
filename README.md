@@ -34,7 +34,7 @@ This project was created as the final challenge for Kevin Powell's [21-day Conqu
 
 This website features a three-section landing layout: a hero with CTA, a features grid, and a highlight section with responsive text and imagery. A toggleable navigation bar is built for mobile-first behavior and transforms into a horizontal layout for larger screens.
 
-The project emphasizes design fidelity, accessibility, and responsive techniques using only HTML, CSS, and JavaScript. No frameworks or component libraries were used — everything was written from scratch.
+The project emphasizes design fidelity, accessibility, and responsive techniques using only HTML, CSS, and JavaScript. No frameworks or component libraries were used, everything was written from scratch.
 
 ---
 
